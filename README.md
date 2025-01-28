@@ -54,4 +54,4 @@ Após dar colne no repositório, basta abri-lo no terminal da interface do TIC-8
 Caso prefira, outra opção seria copiar o cartucho para o repositório padrão do Tic-80 em sua máquina. Para isso, abra o terminal da interface do Tic-80 e digite o comando **folder**. Após isso, cole o cartucho dentro da pasta que será aberta no gerenciador de arquivos. 
 # Considerações Finais
 
-Não foi seguida fielmente a representação do jogo original, porém tentamos deixar o máximo possível semelhante a ele. Ademais, todas as sprites já estão disponibilizadas dentro do cartucho do jogo. 
+Não foi seguida fielmente a representação do jogo original, porém tentamos deixar o máximo possível semelhante a ele. Ademais, todas as sprites já estão disponibilizadas dentro do cartucho do jogo.  
